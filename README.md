@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FuanyiKN.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning java, python and SQL.
-- 💞️ I’m looking to collaborate on projects that will help me learn.
+- 💞️ I’m looking to collaborate on projects that will help me grow my skills.
 - 📫 How to reach me (ngulefehdely@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No matter how old you are, I am twice your age.
